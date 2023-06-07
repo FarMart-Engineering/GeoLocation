@@ -1,0 +1,31 @@
+{
+  "name": "geolocation",
+  "version": "1.0.0",
+  "description": "geocoding and reverse geocoding without using google maps api based on a custom data dump",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NihalFarmart/geolocation.git"
+  },
+  "author": "nihalpandey@farmart.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihalFarmart/geolocation/issues"
+  },
+  "homepage": "https://github.com/NihalFarmart/geolocation#readme",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^5.1.3"
+  },
+  "files": [
+    "lib /**/*"
+  ]
+}
