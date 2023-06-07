@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NihalFarmart/geolocation.git"
+    "url": "git+https://github.com/nihalpandey4/GeoLocation.git"
   },
-  "author": "nihalpandey@farmart.co",
+  "author": "nihalpandey4@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NihalFarmart/geolocation/issues"
+    "url": "https://github.com/nihalpandey4/GeoLocation/issues"
   },
-  "homepage": "https://github.com/NihalFarmart/geolocation#readme",
+  "homepage": "https://github.com/nihalpandey4/GeoLocation#readme",
   "devDependencies": {
     "prettier": "^2.8.8",
     "tslint": "^6.1.3",
