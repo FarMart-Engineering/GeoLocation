@@ -1,6 +1,6 @@
 {
   "name": "@opencollabnexus/geolocation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "geocoding and reverse geocoding without using google maps api based on a custom data dump",
   "main": "lib/index.js",
   "scripts": {
