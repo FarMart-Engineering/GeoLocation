@@ -1,6 +1,6 @@
 {
   "name": "@opencollabnexus/geolocation",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "geocoding and reverse geocoding without using google maps api based on a custom data dump",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/nihalpandey4/GeoLocation.git"
   },
   "author": "nihalpandey4@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nihalpandey4/GeoLocation/issues"
   },
