@@ -1,6 +1,6 @@
 # GeoLocation Package
 
-A TypeScript package for geocoding and reverse geocoding functionalities, allowing you to retrieve location details based on addresses or coordinates.
+A TypeScript package for geocoding and reverse geocoding functionalities, allowing you to retrieve location details based on addresses or coordinates. This package works completely offline and doesn't make calls to any third-party services.
 
 ## Installation
 
